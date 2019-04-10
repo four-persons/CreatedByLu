@@ -15,7 +15,7 @@ public class GithubFourPeople {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Guys, I changed one more time and this should be in branch one...");
+        System.out.println("Hello Guys, I changed and this should be in branch one...");
 
 
 
